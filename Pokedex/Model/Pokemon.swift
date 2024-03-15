@@ -1,5 +1,5 @@
 //
-//  DetailPokemon.swift
+//  Pokemon.swift
 //  Pokedex
 //
 //  Created by T Thirayut on 15/3/2567 BE.

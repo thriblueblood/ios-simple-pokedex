@@ -17,7 +17,7 @@
 		A37377802BA4317600BA6B3B /* PokemonTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A373777E2BA4317600BA6B3B /* PokemonTableViewCell.swift */; };
 		A37377812BA4317600BA6B3B /* PokemonTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = A373777F2BA4317600BA6B3B /* PokemonTableViewCell.xib */; };
 		A37377862BA4375600BA6B3B /* PokemonHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = A37377852BA4375600BA6B3B /* PokemonHandler.swift */; };
-		A37377892BA43AF800BA6B3B /* DetailPokemon.swift in Sources */ = {isa = PBXBuildFile; fileRef = A37377882BA43AF800BA6B3B /* DetailPokemon.swift */; };
+		A37377892BA43AF800BA6B3B /* Pokemon.swift in Sources */ = {isa = PBXBuildFile; fileRef = A37377882BA43AF800BA6B3B /* Pokemon.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,7 +35,7 @@
 		A373777E2BA4317600BA6B3B /* PokemonTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PokemonTableViewCell.swift; sourceTree = "<group>"; };
 		A373777F2BA4317600BA6B3B /* PokemonTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = PokemonTableViewCell.xib; sourceTree = "<group>"; };
 		A37377852BA4375600BA6B3B /* PokemonHandler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PokemonHandler.swift; sourceTree = "<group>"; };
-		A37377882BA43AF800BA6B3B /* DetailPokemon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailPokemon.swift; sourceTree = "<group>"; };
+		A37377882BA43AF800BA6B3B /* Pokemon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pokemon.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,7 +106,7 @@
 		A37377872BA43AEE00BA6B3B /* Model */ = {
 			isa = PBXGroup;
 			children = (
-				A37377882BA43AF800BA6B3B /* DetailPokemon.swift */,
+				A37377882BA43AF800BA6B3B /* Pokemon.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -237,7 +237,7 @@
 			files = (
 				A37377862BA4375600BA6B3B /* PokemonHandler.swift in Sources */,
 				A373776C2BA42F8300BA6B3B /* ViewController.swift in Sources */,
-				A37377892BA43AF800BA6B3B /* DetailPokemon.swift in Sources */,
+				A37377892BA43AF800BA6B3B /* Pokemon.swift in Sources */,
 				A37377682BA42F8300BA6B3B /* AppDelegate.swift in Sources */,
 				A37377802BA4317600BA6B3B /* PokemonTableViewCell.swift in Sources */,
 				A373776A2BA42F8300BA6B3B /* SceneDelegate.swift in Sources */,
